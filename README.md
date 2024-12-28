@@ -31,7 +31,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,py,mysql,bootstrap,react,vite&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,py,mysql,bootstrap,react,vite,styledcomponents,materialui,npm,visualstudio,stackoverflow,git,github,discord,figma&perline=6)](https://skillicons.dev)
 
 <br>
 
